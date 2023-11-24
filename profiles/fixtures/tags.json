@@ -1,0 +1,407 @@
+[
+  {
+    "pk": "1",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "fitness",
+      "friendly_name": "Fitness",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "2",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "nutrition",
+      "friendly_name": "Nutrition",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "3",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "exercise",
+      "friendly_name": "Exercise",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "4",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "weight_management",
+      "friendly_name": "Weight Management",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "5",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "cardiovascular_health",
+      "friendly_name": "Cardiovascular Health",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "6",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "muscle_building",
+      "friendly_name": "Muscle Building",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "7",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "men's_health_screening",
+      "friendly_name": "Men's Health Screening",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "8",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "sexual_health",
+      "friendly_name": "Sexual Health",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "9",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "prostate_health",
+      "friendly_name": "Prostate Health",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "10",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "testicular_health",
+      "friendly_name": "Testicular Health",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "11",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "erectile_dysfunction",
+      "friendly_name": "Erectile Dysfunction",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "12",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "hair_loss",
+      "friendly_name": "Hair Loss",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "13",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "sleep_disorders",
+      "friendly_name": "Sleep Disorders",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "14",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "chronic_pain",
+      "friendly_name": "Chronic Pain",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "15",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "substance_abuse",
+      "friendly_name": "Substance Abuse",
+      "category": "Physical"
+    }
+  },
+  {
+    "pk": "16",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "mental_health",
+      "friendly_name": "Mental Health",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "17",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "stress_management",
+      "friendly_name": "Stress Management",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "18",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "anxiety",
+      "friendly_name": "Anxiety",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "19",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "depression",
+      "friendly_name": "Depression",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "20",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "coping_strategies",
+      "friendly_name": "Coping Strategies",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "21",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "anger_management",
+      "friendly_name": "Anger Management",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "22",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "self-esteem",
+      "friendly_name": "Self-Esteem",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "23",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "resilience_building",
+      "friendly_name": "Resilience Building",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "24",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "grief_and_loss",
+      "friendly_name": "Grief and Loss",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "25",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "emotional_well_being",
+      "friendly_name": "Emotional Well-being",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "26",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "burnout_prevention",
+      "friendly_name": "Burnout Prevention",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "27",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "work-life_balance",
+      "friendly_name": "Work-Life Balance",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "28",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "mindfulness_and_meditation",
+      "friendly_name": "Mindfulness and Meditation",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "29",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "addiction_recovery",
+      "friendly_name": "Addiction Recovery",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "30",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "peer_support",
+      "friendly_name": "Peer Support",
+      "category": "Emotional"
+    }
+  },
+  {
+    "pk": "31",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "counseling",
+      "friendly_name": "Counseling",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "32",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "therapy",
+      "friendly_name": "Therapy",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "33",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "psychiatric_disorders",
+      "friendly_name": "Psychiatric Disorders",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "34",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "ptsd",
+      "friendly_name": "PTSD (Post-Traumatic Stress Disorder)",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "35",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "bipolar_disorder",
+      "friendly_name": "Bipolar Disorder",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "36",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "personality_disorders",
+      "friendly_name": "Personality Disorders",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "37",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "cognitive_behavioral_therapy",
+      "friendly_name": "Cognitive Behavioral Therapy (CBT)",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "38",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "men's_mental_health_stigma",
+      "friendly_name": "Men's Mental Health Stigma",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "39",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "psychoeducation",
+      "friendly_name": "Psychoeducation",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "40",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "mental_health_awareness",
+      "friendly_name": "Mental Health Awareness",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "41",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "trauma_recovery",
+      "friendly_name": "Trauma Recovery",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "42",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "men's_support_groups",
+      "friendly_name": "Men's Support Groups",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "43",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "mental_health_hotlines",
+      "friendly_name": "Mental Health Hotlines",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "44",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "psychosomatic_disorders",
+      "friendly_name": "Psychosomatic Disorders",
+      "category": "Psychological"
+    }
+  },
+  {
+    "pk": "45",
+    "model": "profiles.tag",
+    "fields": {
+      "name": "emotional_intelligence",
+      "friendly_name": "Emotional Intelligence",
+      "category": "Psychological"
+    }
+  }
+]
